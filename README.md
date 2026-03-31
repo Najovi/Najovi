@@ -8,7 +8,7 @@ Soy un apasionado por la tecnología, el desarrollo de software y el aprendizaje
 ### 🛠️ Tecnologías y Lenguajes
 Me encuentro expandiendo mi stack tecnológico con:
 
-* **Lenguajes:** *
+* **Lenguajes:** 
     * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
     * ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
     * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -19,12 +19,7 @@ Me encuentro expandiendo mi stack tecnológico con:
 No todo es programar; en mi tiempo libre me encontrarás en:
 
 * **Gaming:** Soy un superviviente en **Project Zomboid**, piloto en **War Thunder** y creador ocasional en **The Sims**.
-* **Anime:** Fanático de **One Piece** (¡siguiendo el camino hacia el King of the Pirates! 🏴‍☠️).
-
----
-
-### 📊 Mis Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight)
+* **Anime:** Fanático de **One Piece**🏴‍☠️
 
 ---
 
