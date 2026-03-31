@@ -18,8 +18,8 @@ Me encuentro expandiendo mi stack tecnológico con:
 ### 🎮 Más allá del código (Sobre Mí)
 No todo es programar; en mi tiempo libre me encontrarás en:
 
-* **Gaming:** Soy un superviviente en **Project Zomboid**, piloto en **War Thunder** y creador ocasional en **The Sims**.
-* **Anime:** Fanático de **One Piece**🏴‍☠️
+* **Gaming:** Soy un superviviente en **Project Zomboid**, piloto en **War Thunder**.
+* **Anime:** En busca del **One Piece**🏴‍☠️
 
 ---
 
