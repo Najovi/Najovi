@@ -1,9 +1,30 @@
-#Hola , soy Jorge vilca 👻
-Estudiante de la Carrera de Ingenieria Informatica en UCSE DASS
-Estudiante de 3er año
-Jugador de Project zomboid y War Thunder entre otros 
+# Hola! Soy Jorge Vilca 👋
 
-### Sobre Mi
-**Lenguajes** :aprendiendo JavaScrip, C++, Pyton
-**Gaming** :Project zomboid, War Thunder, The Sims
-**Series/Anime** :OnePiece
+### 🎓 Estudiante de Ingeniería Informática | 3er Año en UCSE DASS
+Soy un apasionado por la tecnología, el desarrollo de software y el aprendizaje constante. Actualmente enfocado en fortalecer mis bases en programación y participar en proyectos desafiantes.
+
+---
+
+### 🛠️ Tecnologías y Lenguajes
+Me encuentro expandiendo mi stack tecnológico con:
+
+* **Lenguajes:** * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+    * ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+    * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 🎮 Más allá del código (Sobre Mí)
+No todo es programar; en mi tiempo libre me encontrarás en:
+
+* **Gaming:** Soy un superviviente en **Project Zomboid**, piloto en **War Thunder** y creador ocasional en **The Sims**.
+* **Anime:** Fanático de **One Piece** (¡siguiendo el camino hacia el King of the Pirates! 🏴‍☠️).
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight)
+
+---
+
+> *"El código es como el humor. Cuando tienes que explicarlo, es malo."*
