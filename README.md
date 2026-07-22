@@ -147,14 +147,6 @@ Contributed to the frontend build using Tailwind CSS, deployed on Netlify.
 
 </div>
 
-### 📅 Contribution Calendar
-
-<div align="center">
-
-![Contribution Calendar](https://ghchart.rshah.org/8A2BE2/Najovi)
-
-</div>
-
 ---
 
 ### 🎯 Current Focus
