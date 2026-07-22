@@ -98,8 +98,7 @@ Learning:
   - Advanced PostgreSQL (query optimization, indexing)
 
 Building:
-  - CelestIA v2 — expanding local-AI vault features
-  - ESP32-S3 scientific calculator (hardware phase)
+  - CelestIA v2 — expanding local-AI vault features  
 
 Exploring:
   - Applied AI beyond chat interfaces
