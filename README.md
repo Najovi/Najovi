@@ -166,11 +166,11 @@ Contributed to the frontend build using Tailwind CSS, deployed on Netlify.
 
 </div>
 
-### 🐍 Contribution Snake
+### 📅 Contribution Calendar
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Najovi/Najovi/output/github-contribution-grid-snake.svg)
+![Contribution Calendar](https://ghchart.rshah.org/8A2BE2/Najovi)
 
 </div>
 
