@@ -139,25 +139,6 @@ Contributed to the frontend build using Tailwind CSS, deployed on Netlify.
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Najovi&show_icons=true&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Najovi&hide_border=true&background=0D0221&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najovi&layout=compact&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Najovi&theme=algolia&no-frame=true&margin-w=10&column=7" />
-
-</div>
-
 ### 📈 Contribution Activity
 
 <div align="center">
