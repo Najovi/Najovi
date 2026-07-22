@@ -60,18 +60,6 @@ Open To:
 
 ---
 
-### 🧠 Applied AI Expertise
-
-| Domain | Level | Details |
-|---|---|---|
-| Local LLM Integration | Practical | Running Ollama (qwen2.5-coder, gemma3) as the reasoning engine behind a production WhatsApp bot |
-| Prompt Engineering | Practical | Designing prompts that reliably route natural-language commands to file/note operations |
-| Speech-to-Text Pipelines | Practical | Integrating whisper.cpp for non-blocking audio transcription |
-| Retrieval over personal data | Practical | Keyword + model-assisted search across an Obsidian vault |
-| Model training / fine-tuning | Not yet — actively exploring | — |
-
----
-
 ### 🚀 Featured Projects
 
 <details>
@@ -89,53 +77,6 @@ A personal AI assistant living inside WhatsApp: it decides where to file notes i
 | **Repository** | [Najovi/celestia](https://github.com/Najovi/celestia) |
 
 </details>
-
-<details>
-<summary><strong>🧮 ESP32-S3 Scientific Calculator</strong></summary>
-<br/>
-
-A scientific calculator built from scratch on embedded hardware — 3-layer keymap (BASE/SHIFT/ALPHA), custom recursive-descent expression parser, and an ST7920 128×64 GLCD display driven via the U8g2 library.
-
-| | |
-|---|---|
-| **Stack** | C++, PlatformIO, U8g2, SPI |
-| **Scale** | 50-button matrix input, custom parsing engine |
-| **Performance** | Real-time expression evaluation on constrained hardware |
-| **Impact** | End-to-end embedded project: from GPIO/matrix wiring to display rendering to parsing logic |
-
-</details>
-
-<details>
-<summary><strong>🗄️ Hotel Norte Andino — Relational Database System</strong></summary>
-<br/>
-
-University TPI: full relational design for a hotel management system.
-
-| | |
-|---|---|
-| **Stack** | PostgreSQL, stored procedures, UDFs, triggers |
-| **Scale** | Full ERD design with normalization |
-| **Impact** | Delivered as a formatted technical report; covers real-world booking/reservation logic |
-
-</details>
-
----
-
-### 🎓 Academic & Team Projects
-
-**Byteme** — Co-founder, student software venture
-<br/>
-Collaborative team project building a web presence and internal tooling for a student-led software initiative.
-`Team Leadership` `HTML/CSS` `Web Development`
-
-**Agenda de Tareas** — Personal task management app
-<br/>
-`JavaScript` `CRUD` `Backend Logic`
-
-**La Vie En Rose** — Café frontend (group integrative project, UCSE)
-<br/>
-Contributed to the frontend build using Tailwind CSS, deployed on Netlify.
-`Tailwind CSS` `Team Collaboration`
 
 ---
 
