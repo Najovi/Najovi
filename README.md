@@ -11,10 +11,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B2A86?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221)]((https://www.linkedin.com/in/najovi/))
-[![Email](https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0221)](vilcajorge0327@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B2A86?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0221)](https://www.linkedin.com/in/najovi/)
+[![Email](https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0221)](mailto:vilcajorge0327@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Najovi-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0221)](https://github.com/Najovi)
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Najovi&color=8a2be2&style=flat-square&label=Profile+Views)
