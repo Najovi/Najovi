@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:5B2A86,100:8A2BE2&height=200&section=header&text=Jorge%20Vilca&fontSize=60&fontColor=E6D9FF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Local%20AI%20Integration&descAlignY=55&descColor=C4B5FD" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Local+AI+%2F+Applied+AI+Integration;Database+Enthusiast;Learning+Cybersecurity+Fundamentals" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=359eff&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Local+AI+%2F+Applied+AI+Integration;Database+Enthusiast;Learning+Cybersecurity+Fundamentals" alt="Typing SVG" />
 
 <br/>
 
